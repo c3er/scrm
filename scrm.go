@@ -12,7 +12,7 @@ import (
 	"github.com/bmizerany/pat"
 	assetfs "github.com/elazarl/go-bindata-assetfs"
 	"github.com/jcuga/golongpoll"
-	_ "github.com/jteeuwen/go-bindata"
+	_ "github.com/lestrrat-go/bindata"
 )
 
 type Scrm struct {

@@ -8,56 +8,20 @@ document.addEventListener("DOMContentLoaded", function(event) {
                 Text: "---",
             },
             {
-                Value: 2,
-                Text: "≈1-2 Hours",
-            },
-            {
-                Value: 3,
-                Text: "≈2-3 Hours",
-            },
-            {
-                Value: 5,
-                Text: "≈½ Day",
-            },
-            {
                 Value: 8,
-                Text: "≈1 Day",
-            },
-            {
-                Value: 13,
-                Text: "≈1-2 Days",
+                Text: "8 Points",
             },
             {
                 Value: 20,
-                Text: "≈½ Week",
+                Text: "20 Points",
             },
             {
                 Value: 35,
-                Text: "≈1 Week",
+                Text: "35 Points",
             },
             {
-                Value: 55,
-                Text: "≈1-2 Weeks",
-            },
-            {
-                Value: 90,
-                Text: "≈2-3 Weeks",
-            },
-            {
-                Value: 140,
-                Text: "≈3-4 Weeks",
-            },
-            {
-                Value: 230,
-                Text: "≈1-2 Months",
-            },
-            {
-                Value: 370,
-                Text: "≈2-3 Months",
-            },
-            {
-                Value: 600,
-                Text: "≈½ Year",
+                Value: 10000,
+                Text: "10,000 Points",
             }
         ]
     };
