@@ -24,8 +24,8 @@ type Scrm struct {
 const (
 	cookieRoomOptions  = "RoomOptions"
 	kickTimerInterval  = time.Second * 2
-	deleteRoomInterval = time.Hour * 4
-	kickIdleAfter      = time.Minute * 60
+	deleteRoomInterval = time.Hour * 24 * 7
+	kickIdleAfter      = time.Hour * 24
 )
 
 type ErrWithMessageAndStatusCode struct {
